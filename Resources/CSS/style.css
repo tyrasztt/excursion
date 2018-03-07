@@ -1,4 +1,10 @@
 html {
-  font-family: Veranda; color: white;
+  font-family: Verdana;
+  color: white;
+  text-align: center;
   background-color: black;
+}
+h1{
+  font-size: 50px;
+  font-weight: normal;
 }
